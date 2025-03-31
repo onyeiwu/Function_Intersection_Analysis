@@ -31,7 +31,7 @@ We also generate a **visual representation** of both functions and highlight the
 
 ## 📌 Project Overview  
 This project aims to:  
-✔ **Find the intersection point** of \( y = e^{-x} \) and \( y = \sin(x) \) using numerical methods.  
+✔ **Find the intersection point** of y = e^{-x}  and y = sin(x) using numerical methods.  
 ✔ **Use SciPy’s root-finding algorithm** to compute the x-value where both functions are equal.  
 ✔ **Visualize the functions** and highlight the intersection using Matplotlib.  
 
