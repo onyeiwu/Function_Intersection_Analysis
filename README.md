@@ -190,7 +190,7 @@ This project is licensed under the **MIT License** – you are free to **use and
 
 ---
 
-## 🌟 Connect with Me  
+## Connect with Me  
 👤 **Onyeiwu Gabriel**  
 
 💻 **GitHub**: [Onyeiwu Gabriel](https://github.com/Onyeiwu)  
