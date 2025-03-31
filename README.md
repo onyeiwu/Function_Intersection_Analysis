@@ -15,16 +15,32 @@ We also generate a **visual representation** of both functions and highlight the
 ---
 
 ## 📂 Table of Contents  
-1️⃣ [Project Overview](#project-overview)  
-2️⃣ [Mathematical Explanation](#mathematical-explanation)  
-3️⃣ [Requirements & Installation](#requirements--installation)  
-4️⃣ [How to Run](#how-to-run)  
-5️⃣ [Code Breakdown](#code-breakdown)  
-6️⃣ [Results & Findings](#results--findings)  
-7️⃣ [Future Enhancements](#future-enhancements)  
-8️⃣ [Contributing](#contributing)  
-9️⃣ [License](#license)  
-🔟 [Connect with Me](#connect-with-me)  
+- [Project Overview](#project-overview)
+- [Mathematical Explanation](#mathematical-explanation)
+- [Requirements & Installation](#requirements-installation)
+- [How to Run](#how-to-run)
+- [Code Breakdown](#code-breakdown)
+- [Results & Findings](#results--findings)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Connect with Me](#connect-with-me)  
+
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools used in this analysis](#tools-used-in-this-analysis)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
+
 
 
 ---
