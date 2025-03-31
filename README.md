@@ -145,6 +145,7 @@ plt.grid(True, alpha=0.3)
 plt.show()
 ```
 ✔ This **plots the two functions** and marks the **intersection point**.  
+![Gitpicture](https://github.com/user-attachments/assets/468d7eb5-8d85-44b7-9205-f8d2cd4ba2c8)
 
 
 ---
