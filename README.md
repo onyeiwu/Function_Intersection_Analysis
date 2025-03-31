@@ -1,7 +1,3 @@
-Here’s your **final README.md** file with all your details included.  
-
----
-
 # 📊 Function Intersection Finder  
 Finding the intersection of **y = exp(-x)** and **y = sin(x)** using Python  
 
@@ -10,10 +6,10 @@ Mathematical equations often have points where two functions intersect. Finding 
 
 This project numerically finds and visualizes the intersection of two functions:  
 
-✅ **Exponential decay function**: \( y = e^{-x} \)  
-✅ **Sine function**: \( y = \sin(x) \)  
+✅ **Exponential decay function**:  y = e^{-x}   
+✅ **Sine function**:  y = sin(x)  
 
-Using the **SciPy optimization library**, we determine the point where these functions are equal (\( e^{-x} = \sin(x) \)).  
+Using the **SciPy optimization library**, we determine the point where these functions are equal e^{-x} = sin(x).  
 We also generate a **visual representation** of both functions and highlight their intersection.  
 
 ---
@@ -43,17 +39,17 @@ This project aims to:
 ## 🧮 Mathematical Explanation  
 The problem reduces to solving the equation:  
 
-\[
-e^{-x} = \sin(x)
-\]
+
+e^{-x} = sin(x)
+
 
 Since this equation is difficult to solve **analytically**, we use a **numerical root-finding method** from SciPy to approximate the **x value** where both sides are equal.  
 
 📌 The function we solve is:  
 
-\[
-f(x) = e^{-x} - \sin(x) = 0
-\]
+
+f(x) = e^{-x} - sin(x) = 0
+
 
 We provide an **initial guess** to the solver and let it compute an **approximate intersection point**.  
 
@@ -79,7 +75,7 @@ pip install numpy scipy matplotlib
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/Function_Intersection_Analysis.git
+git clone https://github.com/onyeiwu/Function_Intersection_Analysis.git
 cd Function_Intersection_Analysis
 ```
 
@@ -150,6 +146,7 @@ plt.show()
 ```
 ✔ This **plots the two functions** and marks the **intersection point**.  
 
+
 ---
 
 ## 📈 Results & Findings  
@@ -161,8 +158,8 @@ Intersection at x ≈ 0.5885
 ✔ This means that **exp(-x) = sin(x)** at approximately **x = 0.5885**.  
 
 ### 2️⃣ Graphical Output  
-✔ **Blue Curve** → \( y = e^{-x} \)  
-✔ **Orange Curve** → \( y = \sin(x) \)  
+✔ **Blue Curve** → y = e^{-x}   
+✔ **Orange Curve** → y = sin(x)   
 ✔ **Dashed Red Line** → Intersection at **x ≈ 0.5885**  
 ✔ **Red Dot** → Intersection point  
 
@@ -182,7 +179,7 @@ Intersection at x ≈ 0.5885
 
 ## 🤝 Contributing  
 We welcome contributions! 🚀  
-✔ **Report issues** via [GitHub Issues](https://github.com/your-username/Function_Intersection_Analysis/issues)  
+✔ **Report issues** via [GitHub Issues](https://github.com/onyeiwu/Function_Intersection_Analysis/issues)  
 ✔ **Submit Pull Requests (PRs)** for new features or bug fixes.  
 
 ---
@@ -204,4 +201,3 @@ This project is licensed under the **MIT License** – you are free to **use and
 
 ---
 
-### 🎯 Now you can copy-paste this into your **README.md** file and push it to GitHub! Let me know if you need any modifications! 🚀
