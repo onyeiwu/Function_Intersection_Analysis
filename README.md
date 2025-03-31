@@ -1,7 +1,7 @@
 # 📊 Function Intersection Finder  
 Finding the intersection of **y = exp(-x)** and **y = sin(x)** using Python  
 
-## 📝 Description  
+##  Description  
 Mathematical equations often have points where two functions intersect. Finding these intersection points is crucial in various fields like **physics, engineering, and data science**.  
 
 This project numerically finds and visualizes the intersection of two functions:  
@@ -14,7 +14,7 @@ We also generate a **visual representation** of both functions and highlight the
 
 ---
 
-## 📂 Table of Contents  
+##  Table of Contents  
 - [Project Overview](#Project-Overview)
 - [Mathematical Explanation](#mathematical-explanation)
 - [Requirements & Installation](#requirements-installation)
@@ -28,7 +28,7 @@ We also generate a **visual representation** of both functions and highlight the
 
 ---
 
-## 📌 Project Overview  
+##  Project Overview  
 This project aims to:  
 ✔ **Find the intersection point** of y = e^{-x}  and y = sin(x) using numerical methods.  
 ✔ **Use SciPy’s root-finding algorithm** to compute the x-value where both functions are equal.  
@@ -36,7 +36,7 @@ This project aims to:
 
 ---
 
-## 🧮 Mathematical Explanation  
+##  Mathematical Explanation  
 The problem reduces to solving the equation:  
 
 
@@ -71,7 +71,7 @@ pip install numpy scipy matplotlib
 
 ---
 
-## 🚀 How to Run  
+##  How to Run  
 
 ### 1️⃣ Clone the Repository  
 ```bash
@@ -89,7 +89,7 @@ Alternatively, you can open and run the **Jupyter Notebook** version of the proj
 
 ---
 
-## 📜 Code Breakdown  
+##  Code Breakdown  
 
 ### 1️⃣ Import Necessary Libraries  
 ```python
@@ -150,7 +150,7 @@ plt.show()
 
 ---
 
-## 📈 Results & Findings  
+##  Results & Findings  
 
 ### 1️⃣ Output in Terminal  
 ```bash
@@ -170,7 +170,7 @@ Intersection at x ≈ 0.5885
 
 ---
 
-## 🚀 Future Enhancements  
+##  Future Enhancements  
 🔹 Extend the script to find **multiple intersections**.  
 🔹 Use **symbolic computation (sympy)** for exact solutions.  
 🔹 Develop a **GUI using Tkinter or Dash**.  
@@ -178,14 +178,14 @@ Intersection at x ≈ 0.5885
 
 ---
 
-## 🤝 Contributing  
+##  Contributing  
 We welcome contributions! 🚀  
 ✔ **Report issues** via [GitHub Issues](https://github.com/onyeiwu/Function_Intersection_Analysis/issues)  
 ✔ **Submit Pull Requests (PRs)** for new features or bug fixes.  
 
 ---
 
-## 📜 License  
+##  License  
 This project is licensed under the **MIT License** – you are free to **use and modify** the code!  
 
 ---
