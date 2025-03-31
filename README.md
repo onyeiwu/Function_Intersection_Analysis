@@ -1,4 +1,4 @@
-Here’s your **GitHub README.md** file with proper formatting:  
+Here’s your **final README.md** file with all your details included.  
 
 ---
 
@@ -6,7 +6,7 @@ Here’s your **GitHub README.md** file with proper formatting:
 Finding the intersection of **y = exp(-x)** and **y = sin(x)** using Python  
 
 ## 📝 Description  
-Mathematical equations often have points where two functions intersect. Finding these intersection points is crucial in various fields like physics, engineering, and data science.  
+Mathematical equations often have points where two functions intersect. Finding these intersection points is crucial in various fields like **physics, engineering, and data science**.  
 
 This project numerically finds and visualizes the intersection of two functions:  
 
@@ -28,6 +28,7 @@ We also generate a **visual representation** of both functions and highlight the
 7️⃣ [Future Enhancements](#future-enhancements)  
 8️⃣ [Contributing](#contributing)  
 9️⃣ [License](#license)  
+🔟 [Connect with Me](#connect-with-me)  
 
 ---
 
@@ -78,7 +79,7 @@ pip install numpy scipy matplotlib
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/onyeiwu/Function_Intersection_Analysis.git
+git clone https://github.com/your-username/Function_Intersection_Analysis.git
 cd Function_Intersection_Analysis
 ```
 
@@ -86,6 +87,9 @@ cd Function_Intersection_Analysis
 ```bash
 python intersection_finder.py
 ```
+
+Alternatively, you can open and run the **Jupyter Notebook** version of the project:  
+📄 **File Path**: `"C:\Users\hp\Function_intersection_Analysis.ipynb"`
 
 ---
 
@@ -188,13 +192,16 @@ This project is licensed under the **MIT License** – you are free to **use and
 
 ---
 
-## 🌟 Support & Connect  
-💻 **GitHub**: [your-username](https://github.com/your-username)  
-🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
-📧 **Email**: your.email@example.com  
+## 🌟 Connect with Me  
+👤 **Onyeiwu Gabriel**  
+
+💻 **GitHub**: [Onyeiwu Gabriel](https://github.com/Onyeiwu)  
+🔗 **LinkedIn**: [Gabriel Onyeiwu](https://www.linkedin.com/in/gabriel-onyeiwu-2b3956171)  
+🎵 **TikTok**: [@onyeiwu_gabriel.7](https://www.tiktok.com/@onyeiwu_gabriel.7)  
+📧 **Email**: [onyeiwugabriel913@gmail.com](mailto:onyeiwugabriel913@gmail.com)  
 
 📢 **If you found this project helpful, give it a ⭐ on GitHub!** 🚀  
 
 ---
 
-### 🔥 Now, you can simply copy-paste this into your **README.md** file on GitHub! 🚀 Let me know if you need any modifications! 🎯
+### 🎯 Now you can copy-paste this into your **README.md** file and push it to GitHub! Let me know if you need any modifications! 🚀
