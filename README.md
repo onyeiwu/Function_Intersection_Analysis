@@ -15,7 +15,7 @@ We also generate a **visual representation** of both functions and highlight the
 ---
 
 ## 📂 Table of Contents  
-- [Project Overview](#project-overview)
+- [Project Overview](#Project-Overview)
 - [Mathematical Explanation](#mathematical-explanation)
 - [Requirements & Installation](#requirements-installation)
 - [How to Run](#how-to-run)
@@ -25,23 +25,6 @@ We also generate a **visual representation** of both functions and highlight the
 - [Contributing](#contributing)
 - [License](#license)
 - [Connect with Me](#connect-with-me)  
-
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools used in this analysis](#tools-used-in-this-analysis)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
-- [Results and Findings](#results-and-findings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [References](#references)
-
-
-
 
 ---
 
